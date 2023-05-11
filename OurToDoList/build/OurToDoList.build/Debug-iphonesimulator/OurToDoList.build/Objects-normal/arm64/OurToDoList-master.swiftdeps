@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "f240c6829d5ffb773d938c935ea208e821562925abf3dd78b406c1e80ae6b8f6"
+build_start_time: [1683825150, 162049000]
+build_end_time: [1683825151, 475974000]
+inputs:
+  "/Users/kaduvuotto/Documents/GitHub/OurToDoList/OurToDoList/AppDelegate.swift": [1683821182, 432823844]
+  "/Users/kaduvuotto/Documents/GitHub/OurToDoList/OurToDoList/SceneDelegate.swift": [1683821182, 435217245]
+  "/Users/kaduvuotto/Documents/GitHub/OurToDoList/OurToDoList/ViewController.swift": [1683825149, 791847466]
